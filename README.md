@@ -9,10 +9,10 @@ Note: It generates insights about sold and unsold players and the team's perform
 # GOAL
 The Goal of this IPl_Auction_2022_EDA Project . Cleaning , Analysing and exploring the dataset.
 
-investigated the dataset such as:
-players participated in 2022 auction. 
-participation in based on role. 
-players were sold and unsold in ipl 2022 auction. 
+investigated the dataset such as:  
+players participated in 2022 auction.  
+participation in based on role.   
+players were sold and unsold in ipl 2022 auction.   
 players bought by each team. 
 players retained and draft pick by each team. 
 players are bought for each role. 
